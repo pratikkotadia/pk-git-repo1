@@ -1,3 +1,4 @@
 code/tmp/*.*
 *.apy
 ! myfile.apy
+code/tmp2
